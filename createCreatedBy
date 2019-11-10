@@ -1,0 +1,7 @@
+USE moma;
+DROP TABLE IF EXISTS createdby;
+CREATE TABLE IF NOT EXISTS createdby (
+ artwork_id INT,
+ artist_id INT,
+ PRIMARY KEY (artwork_id,artist_id)
+);
