@@ -1,7 +1,7 @@
 <?php
 // Defined as constants so that they can't be changed
-DEFINE ('DB_USER', 'nathan');
-DEFINE ('DB_PASSWORD', 'cins570');
+DEFINE ('DB_USER', 'username');
+DEFINE ('DB_PASSWORD', 'password');
 DEFINE ('DB_HOST', 'localhost');
 DEFINE ('DB_NAME', 'moma');
 
